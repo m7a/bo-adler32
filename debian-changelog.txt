@@ -1,0 +1,11 @@
+mdvl-adler32 (1.0.1) stable; urgency=medium
+
+  * update version for new ant-based build.
+
+ -- Linux-Fan, Ma_Sys.ma <Ma_Sys.ma@web.de>  Fri, 07 Feb 2020 22:23:57 +0100
+
+mdvl-adler32 (1.0.0) stable; urgency=low
+
+  * mdvl-adler32 created after request from debian-user
+
+ -- Linux-Fan <Ma_Sys.ma@web.de>  Sun, 01 Dec 2013 00:25:35 +0100
