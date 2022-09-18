@@ -8,7 +8,7 @@ author: ["Linux-Fan, Ma_Sys.ma (Ma_Sys.ma@web.de)"]
 keywords: ["programs", "c"]
 x-masysma-version: 1.0.0
 x-masysma-repository: https://www.github.com/m7a/bo-adler32
-x-masysma-website: https://masysma.lima-city.de/11/adler32.xhtml
+x-masysma-website: https://masysma.net/11/adler32.xhtml
 x-masysma-owned: 1
 x-masysma-copyright: |
   Copyright (c) 2013, 2020 Ma_Sys.ma.
